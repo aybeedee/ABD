@@ -1,3 +1,3 @@
-Undergraduate computer science student. C, C++, HTML/CSS, JS, React, Python, Java, Blender.
+Undergraduate computer science student. C++, HTML/CSS, JS, React, Java, Python, C, Blender.
 
 
