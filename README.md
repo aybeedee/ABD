@@ -1,3 +1,1 @@
-Undergraduate computer science student
-
-
+# Full Stack, AI/ML - 3rd Year BSCS
