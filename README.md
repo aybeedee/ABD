@@ -1,1 +1,1 @@
-### Full Stack, AI/ML - 3rd Year BSCS
+### Full Stack, AI/ML - Undergrad Student BSCS
