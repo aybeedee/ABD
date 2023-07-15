@@ -1,1 +1,1 @@
-### Full Stack, AI/ML - Undergraduate Student BSCS
+### Full Stack
