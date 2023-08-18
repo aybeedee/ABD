@@ -1,1 +1,1 @@
-### Full Stack - Undergraduate Student BS CS
+### Backend, Web Dev, Scripting, AWS, Unity
